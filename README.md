@@ -48,3 +48,11 @@ Uses Power BI's Key Influencers visual to identify which factors increase the li
 - `Spotify_Dashboard.pbix` — Power BI dashboard file
 - `spotify_data_clean.csv` — cleaned dataset
 - `screenshots/` — dashboard screenshots
+
+## Dashboard preview
+
+![Overview](Overview.png)
+
+![Popularity Drivers](Popularity_Drivers.PNG)
+
+![Key Influencers](Key_Influencers.png)
