@@ -53,6 +53,6 @@ Uses Power BI's Key Influencers visual to identify which factors increase the li
 
 ![Overview](Overview.png)
 
-![Popularity Drivers](Popularity_Drivers.PNG)
+![Popularity Drivers](Popularity_Drivers.png)
 
 ![Key Influencers](Key_Influencers.png)
